@@ -16,9 +16,11 @@ I focus on creating clear, structured, and user-friendly documentation for SaaS 
 |  **API Documentation Demo** | Mock API documentation created from an OpenAPI spec. | [View demo](./docs/02-api-demo/overview.md) |
 |  **Style Guide** | My English writing and formatting standards for docs. | [View style guide](./docs/03-style-guide/english-style-guide.md) |
 |  **Glossary** | ERP and warehouse terminology explained. | [View glossary](./docs/04-glossary/glossary.md) |
+| **Example Article** | Turning tech into clarity. | [HTTP vs HTTPS: Choosing the Right Protocol for an E-commerce Store](./docs/http-vs-https.md)|
 | **About Me** | Background, tools, and writing approach. | [Read more](./docs/05-about/about-me.md) |
 
 ---
+
 
 ## Tools & Skills
 
