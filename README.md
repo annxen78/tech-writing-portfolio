@@ -1,14 +1,74 @@
-# tech-writing-portfolio
-A collection of my technical documentation samples
 # Technical Writing Portfolio
 
-Welcome!  
-This repository showcases examples of my technical writing work — user guides, API documentation, glossaries, and style guides.  
-I focus on creating clear, structured, and user-friendly documentation for SaaS products.
+Hi! I'm a technical writer focused on building scalable documentation systems for SaaS products.
+
+I specialize in structuring complex workflows, improving onboarding, and reducing support load through clear, system-driven documentation.
 
 ---
 
-## Portfolio Contents
+## 🔹 Case Studies
+
+### 📌 Documentation System from Scratch
+Built a documentation system for a SaaS ERP product with no prior documentation.
+
+- Designed structure and navigation  
+- Introduced documentation standards  
+- Migrated from Wiki.js to Docusaurus  
+- Improved onboarding and reduced support load  
+
+➡️ [Read case study](./case-studies/documentation-system.md)
+
+---
+
+### 🤖 AI-Powered Documentation Assistant
+Launched a GPT-powered Telegram assistant to improve access to documentation.
+
+- Structured knowledge base for AI usage  
+- Reduced repetitive support requests  
+- Improved user experience  
+
+➡️ [Read case study](./case-studies/ai-bot.md)
+
+---
+
+## 🔹 Documentation Samples
+
+This section showcases examples of my writing and content structure.
+
+| Area | Description | Link |
+|------|------------|------|
+| User Guide | Instructions for managing secret chats in Telegram | [View guide](./docs-samples/secret-chats.md) |
+| API Documentation Demo | Mock API documentation based on OpenAPI spec | [View demo](./docs-samples/api-demo.md) |
+| Style Guide | Writing and formatting standards for documentation | [View style guide](./docs-samples/style-guide.md) |
+| Glossary | ERP and warehouse terminology explained | [View glossary](./docs-samples/glossary.md) |
+| Example Article | Turning technical concepts into clear explanations | [HTTP vs HTTPS](./docs-samples/http-vs-https.md) |
+
+---
+
+## 🔹 Skills Demonstrated
+
+- Documentation systems design  
+- SaaS workflows and user onboarding  
+- UX writing and in-app guidance  
+- Docs-as-code (GitHub, Markdown, Docusaurus)  
+- AI-assisted documentation  
+
+---
+
+## 🔹 About Me
+
+I focus on turning complex systems into clear, structured, and scalable documentation.
+
+My goal is to help teams improve product adoption, reduce support load, and build better user experiences.
+
+---
+
+
+*Let’s connect!*  
+[LinkedIn](https://www.linkedin.com/in/anna-zagorskikh/) | [Email](annxen78@gmail.com)
+
+
+<!-- ## Portfolio Contents
 
 | Area | Description | Link |
 |------|--------------|------|
@@ -18,24 +78,7 @@ I focus on creating clear, structured, and user-friendly documentation for SaaS 
 |  **Glossary** | ERP and warehouse terminology explained | [View glossary](./docs/04-glossary/glossary.md) |
 | **Example Article** | Turning tech into clarity | [HTTP vs HTTPS](./docs/http-vs-https.md)|
 | **About Me** | Background, tools, and writing approach | [Read more](./docs/05-about/about-me.md) |
+-->
 
----
 
 
-## Tools & Skills
-
-- **Documentation:** Markdown, Wiki.js, Docusaurus  
-- **API Docs:** OpenAPI / Swagger, Redocly, Postman  
-- **Content Design:** Structure, tone, UX writing  
-- **Collaboration:** Git, GitHub, Google Docs, Asana  
-
----
-
-##  About This Portfolio
-
-This portfolio is a work in progress.  
-I’m building it to demonstrate my writing style and approach to organizing documentation.  
-Soon, it will include sample API references, onboarding guides, and a style guide in English.
-
-*Let’s connect!*  
-[LinkedIn](https://www.linkedin.com/in/anna-zagorskikh/) | [Email](annxen78@gmail.com)
