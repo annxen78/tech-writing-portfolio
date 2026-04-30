@@ -16,7 +16,7 @@ Built a documentation system for a SaaS ERP product with no prior documentation.
 - Migrated from Wiki.js to Docusaurus  
 - Improved onboarding and reduced support load  
 
-➡️ [Read case study](./case-studies/documentation-system.md)
+➡️ [Read case study](./case-studies/doc-system.md)
 
 ---
 
