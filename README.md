@@ -37,11 +37,11 @@ This section showcases examples of my writing and content structure.
 
 | Area | Description | Link |
 |------|------------|------|
-| User Guide | Instructions for managing secret chats in Telegram | [View guide](./docs-samples/secret-chats.md) |
+| User Guide | Instructions for managing secret chats in Telegram | [View guide](./docs/telegram-secret-chats.md) |
 | API Documentation Demo | Mock API documentation based on OpenAPI spec | [View demo](./docs-samples/api-demo.md) |
 | Style Guide | Writing and formatting standards for documentation | [View style guide](./docs-samples/style-guide.md) |
 | Glossary | ERP and warehouse terminology explained | [View glossary](./docs-samples/glossary.md) |
-| Example Article | Turning technical concepts into clear explanations | [HTTP vs HTTPS](./docs-samples/http-vs-https.md) |
+| Example Article | Turning technical concepts into clear explanations | [HTTP vs HTTPS](./docs/http-vs-https.md) |
 
 ---
 
