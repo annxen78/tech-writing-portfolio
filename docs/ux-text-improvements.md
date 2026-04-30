@@ -48,6 +48,43 @@ I reviewed UI texts and proposed improvements based on:
 
 ---
 
-## Key Takeaway
 
-Clear and consistent terminology is essential for usability, especially in complex systems like ERP.
+## Additional UX Observations
+
+### Organization Selector
+
+**Problem:**  
+The organization selector is not clearly visible and lacks discoverability.
+
+**Suggestion:**  
+Increase visibility or reposition it.
+
+---
+
+### Dashboard Layout
+
+**Problem:**  
+Key financial indicators are placed in low-visibility areas.
+
+**Suggestion:**  
+Move them to the top section of the dashboard.
+
+---
+
+### Icon Consistency
+
+**Problem:**  
+Same icons are used for different entities (debtors vs creditors), which creates confusion.
+
+**Suggestion:**  
+Use distinct icons or align them with meaning (people vs financial symbols).
+
+---
+
+### Empty State
+
+**Problem:**  
+"Empty state" provides no guidance to the user.
+
+**Suggestion:**  
+Add actionable hints (e.g. “Add item”).
