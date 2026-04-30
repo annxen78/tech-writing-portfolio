@@ -40,7 +40,7 @@ This section showcases examples of my writing and content structure.
 | User Guide | Instructions for managing secret chats in Telegram | [View guide](./docs/telegram-secret-chats.md) |
 | API Documentation Demo | Mock API documentation based on OpenAPI spec | [View demo](./docs-samples/api-demo.md) |
 | Style Guide | Writing and formatting standards for documentation | [View style guide](./docs-samples/style-guide.md) |
-| Content & Terminology System | Standardized language for ERP UI, documentation, and localization | [View system](./docs/ux-text-improvements.md) |
+| UX Text & Terminology Improvements | Improving clarity and consistency of ERP UI texts and terminology | [View example](./docs-samples/ux-text-improvements.md)| [View system](./docs/ux-text-improvements.md) |
 | Example Article | Turning technical concepts into clear explanations | [View article](./docs/http-vs-https.md) |
 
 ---
