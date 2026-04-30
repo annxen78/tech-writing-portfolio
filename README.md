@@ -41,7 +41,7 @@ This section showcases examples of my writing and content structure.
 | API Documentation Demo | Mock API documentation based on OpenAPI spec | [View demo](./docs-samples/api-demo.md) |
 | Style Guide | Writing and formatting standards for documentation | [View style guide](./docs-samples/style-guide.md) |
 | Glossary | ERP and warehouse terminology explained | [View glossary](./docs-samples/glossary.md) |
-| Example Article | Turning technical concepts into clear explanations | [HTTP vs HTTPS](./docs/http-vs-https.md) |
+| Example Article | Turning technical concepts into clear explanations | [View article](./docs/http-vs-https.md) |
 
 ---
 
