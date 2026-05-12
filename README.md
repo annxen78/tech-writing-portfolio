@@ -30,7 +30,7 @@ Implemented and maintained a documentation deployment workflow using GitHub, Doc
 - Organized deployment and repository synchronization
 - Documented operational deployment processes and maintenance recommendations
 
-➡️ [Read case study](./case-studies/docs-as-code-workflow.md)
+➡️ [Read case study](./case-studies/docusaurus-deployment-workflow.md)
 
 ---
 
