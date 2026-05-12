@@ -10,7 +10,6 @@ This document describes the current iBox documentation workflow, including conte
 
 ### Documentation Website
 
-https://ibox-docs.netlify.app
 
 The documentation website is hosted on Netlify.
 
@@ -18,7 +17,7 @@ The documentation website is hosted on Netlify.
 
 ### Public GitHub Repository
 
-https://github.com/annxen78/ibox-docs-preview
+Documentation content was managed through GitHub repositories using a docs-as-code workflow.
 
 This repository is connected to the deployment workflow and contains:
 
@@ -64,7 +63,7 @@ git push public main
 
 ### Documentation Website
 
-https://ibox-docs.netlify.app
+A documentation website was generated and deployed using Docusaurus and Netlify.
 
 ---
 
