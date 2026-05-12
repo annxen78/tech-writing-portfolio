@@ -20,6 +20,20 @@ Built a documentation system for a SaaS ERP product with no prior documentation.
 
 ---
 
+### ⚙️ Docs-as-Code Workflow & Deployment
+
+Implemented and maintained a documentation deployment workflow using GitHub, Docusaurus, and Netlify.
+
+- Managed Markdown-based documentation structure
+- Configured Docusaurus static site generation
+- Maintained Git-based documentation workflows
+- Organized deployment and repository synchronization
+- Documented operational deployment processes and maintenance recommendations
+
+➡️ [Read case study](./case-studies/docs-as-code-workflow.md)
+
+---
+
 ### 🤖 AI-Powered Documentation Assistant
 Launched a GPT-powered Telegram assistant to improve access to documentation.
 
