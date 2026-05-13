@@ -81,7 +81,7 @@ My goal is to help teams improve product adoption, reduce support load, and buil
 
 
 *Let’s connect!*  
-[LinkedIn](https://www.linkedin.com/in/anna-zagorskikh/) | [Email](annxen78@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anna-zagorskikh/) | [Email](mailto:annxen78@gmail.com)
 
 
 <!-- ## Portfolio Contents
