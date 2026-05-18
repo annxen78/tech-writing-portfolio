@@ -54,8 +54,8 @@ This section showcases examples of my writing and content structure.
 | User Guide | Instructions for managing secret chats in Telegram | [View guide](./docs/telegram-secret-chats.md) |
 | ERP User Guide | Configuring orders via Telegram bot with step-by-step instructions | [View guide](./docs/bot-orders.md) |
 | Product Overview | ERP platform description for users, partners, and documentation | [View sample](./docs/product-overview.md) |
-| <i>API Documentation Demo | Mock API documentation based on OpenAPI spec</i> | [View demo](./docs-samples/api-demo.md) |
-| Style Guide | Writing and formatting standards for documentation | [View style guide](./docs/style-guide.md) |
+| API and README Documentation Style Guide|  | [View demo](./docs/api-readme.md) |
+| Wiki Style Guide | Writing and formatting standards for documentation | [View style guide](./docs/style-guide.md) |
 | UX Text & Terminology Improvements | Improving clarity and consistency of ERP UI texts and terminology | [View system](./docs/ux-text-improvements.md) |
 | Example Article | Turning technical concepts into clear explanations | [View article](./docs/http-vs-https.md) |
 
