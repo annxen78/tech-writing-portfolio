@@ -34,16 +34,27 @@ Implemented and maintained a documentation deployment workflow using GitHub, Doc
 
 ---
 
-### 🤖 AI-Powered Documentation Assistant
-Launched a GPT-powered Telegram assistant to improve access to documentation.
-
-- Structured knowledge base for AI usage  
-- Reduced repetitive support requests  
-- Improved user experience  
+### 🤖 Knowledge Base Architecture for an AI Documentation Assistant
+I designed the knowledge architecture for a GPT-powered documentation assistant built on the iBox knowledge base.
+ - Structured documentation for reliable AI retrieval — self-contained, unambiguous fragments
+ - Organized content into reusable, semantically coherent chunks
+ - Prepared the knowledge base as the foundation for the assistant
 
 ➡️ [Read case study](./case-studies/ai-bot.md)
 
 ---
+
+### Onboarding Research & Design (SaaS ERP)
+Ran user research and structured the logic for a self-service onboarding flow in a complex multi-module ERP.
+
+ - Interviewed onboarding specialists and SMEs to map where users get stuck
+ - Analyzed friction points and defined what a "quick first success" should look like
+ - Structured a segmented onboarding concept: setup wizard, business-type tracks, progress checklist, contextual hints
+
+Visual design and implementation by the design and product teams; my contribution was the research and onboarding logic.
+
+➡️ [Read case study](./case-studies/onboarding.md)
+
 
 ## 🔹 Documentation Samples
 
